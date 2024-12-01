@@ -1,0 +1,14 @@
+CACHE MANIFEST
+# 2010-06-18:v2
+
+
+CACHE:
+index.html
+style.css
+script.js
+
+NETWORK:
+*
+
+FALLBACK:
+/fallback.html
