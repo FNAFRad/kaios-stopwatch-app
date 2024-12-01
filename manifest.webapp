@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "name": "Easy Stopwatch",
+  "launch_path": "/kaios-stopwatch-app/index.html",
+  "type": "web",
+  "subtitle": "A simple Stopwatch for time-measuring",
+  "description": "A Stopwatch that can measure time in milliseconds, seconds, minutes and hours!",
+  "icons": {
+    "56": "/kaios-stopwatch-app/images/Chocolate_Browser_56.png",
+    "112": "/kaios-stopwatch-app/images/Chocolate_Browser_112.png"
+  },
+  "developer": {
+    "name": "FNAFRad Studios",
+    "url": "https://fnafrad.github.io/Website-Project/"
+  },
+  "categories": [
+    "sports",
+    "utilities"
+  ],
+  "locales": {
+    "en-US": {
+      "name": "Easy Stopwatch",
+      "subtitle": "A simple Stopwatch for time-measuring",
+      "description": "A Stopwatch that can measure time in milliseconds, seconds, minutes and hours!"
+    }
+  },
+  "default_locale": "en-US",
+  "fullscreen": false,
+  "cursor": true
+}
