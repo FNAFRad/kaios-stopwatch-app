@@ -5,6 +5,7 @@
   "type": "web",
   "subtitle": "A simple Stopwatch for time-measuring",
   "description": "A Stopwatch that can measure time in milliseconds, seconds, minutes and hours!",
+  "appcache_path": "/kaios-stopwatch-app/cache.manifest",
   "icons": {
     "56": "/kaios-stopwatch-app/images/Easy_Stopwatch_56.png",
     "112": "/kaios-stopwatch-app/images/Easy_Stopwatch_112.png"
