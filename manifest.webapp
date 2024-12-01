@@ -6,8 +6,8 @@
   "subtitle": "A simple Stopwatch for time-measuring",
   "description": "A Stopwatch that can measure time in milliseconds, seconds, minutes and hours!",
   "icons": {
-    "56": "/kaios-stopwatch-app/images/Chocolate_Browser_56.png",
-    "112": "/kaios-stopwatch-app/images/Chocolate_Browser_112.png"
+    "56": "/kaios-stopwatch-app/images/Easy_Stopwatch_56.png",
+    "112": "/kaios-stopwatch-app/images/Easy_Stopwatch_112.png"
   },
   "developer": {
     "name": "FNAFRad Studios",
